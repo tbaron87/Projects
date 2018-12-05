@@ -50,7 +50,7 @@ Numbers
 
 **Find e to the Nth Digit** - Just like the previous problem, but with e instead of PI. Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go.
 
-**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+~~**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.~~
 
 **Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
@@ -126,7 +126,7 @@ Data Structures
 Text
 ---------
 
-**Fizz Buzz** - Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
+~~**Fizz Buzz** - Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.~~
 
 **Reverse a String** - Enter a string and the program will reverse it and print it out.
 
