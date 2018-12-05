@@ -1,3 +1,7 @@
+My solutions for the challenges listed below for when I'm bored and need something to work on and feel like flexing my Python muscles. This happens more often than you might think.
+
+Challenges with a strike through them have been completed.
+
 Mega Project List
 ========
 
