@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>0751a01b-a2a1-4c79-9275-f92c5df631f0</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Text\fizzbuzz.py</StartupFile>
+    <StartupFile>Text\reverseString.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -32,6 +32,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Text\fizzbuzz.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Text\reverseString.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
